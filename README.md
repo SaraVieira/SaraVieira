@@ -1,6 +1,6 @@
 ### Hey nerds 👋
 
-My name is Sara and I am developer based in Berlin. I am also an idiot, avid football fan, terrible movie watcher and a damn nerd.
+My name is Sara and I am a full stack developer based in Berlin. I am also an avid football fan, terrible movie watcher and an average nerd.
 
 
 - 📫 How to reach me: [@NikkitaFTW](https://twitter.com/NikkitaFTW)
